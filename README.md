@@ -9,10 +9,12 @@
   <a href="https://youtube.com/channel/UCzG6wWVHCiReHlOAjO_nXYw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="twitter.com/tecnophille">
+  <a href="https://twitter.com/tecnophille">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<a href="instagram.com/tecnophille">
+<a href="https://instagram.com/tecnophille">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Technophille&style=flat-square&color=blue" alt=""/>
