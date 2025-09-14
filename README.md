@@ -9,61 +9,26 @@
 ## 👋 Welcome  
 I’m **Samuel Oliver**, a technology leader with **8+ years of experience** spanning **software engineering, DevOps, governance & compliance, and IT leadership**.  
 
-As the **Founder & CTO of Cura ID**, I design and lead **global-scale health identity platforms** that merge **security, equity, and resilience** in digital healthcare.  
+Currently leading **Cura ID**, a **Global Health Identity Platform**, I work at the intersection of **engineering, cybersecurity, and strategy**, building solutions that restore **trust, equity, and resilience** in digital healthcare.  
 
-💡 My strength lies in combining **hands-on engineering expertise** with **strategic GRC leadership**, enabling me to deliver innovation that is **secure, compliant, and scalable**.  
+I combine **hands-on engineering expertise** with **C-level leadership**, bridging code, compliance, and company-wide strategy.  
 
 ---
 
 ## 🚀 Core Focus Areas  
-- **Full-Stack Engineering** → React, Next.js, NestJS, Angular, Flutter, Supabase, PostgreSQL, MongoDB.  
-- **DevOps & Cloud** → CI/CD, GitHub Actions, Docker, Kubernetes, AWS, Azure, Vercel, Render.  
-- **Governance, Risk & Compliance (GRC)** → NIST, ISO 27001, ITIL, COBIT, data governance, risk frameworks, secrets management.  
-- **Cybersecurity** → Zero-trust, IAM, RLS policies, vulnerability assessment, incident response.  
-- **Analytics & Reporting** → Power BI, Google Analytics, Microsoft 365 dashboards.  
-- **Leadership** → CTO decision-making, enterprise architecture, stakeholder alignment, communication frameworks.  
-- **Enthusiast in Emerging Tech** → Exploring blockchain and Web3 applications in digital identity.  
+- **Full-Stack Engineering** → React, Next.js, NestJS, Flutter, Supabase, PostgreSQL.  
+- **DevOps & Cloud** → CI/CD pipelines, GitHub Actions, Docker, Kubernetes, AWS, Vercel.  
+- **Governance, Risk & Compliance (GRC)** → NIST, ISO 27001, COBIT, secrets management, IT governance.  
+- **Cybersecurity** → Zero-trust, RLS policies, IAM, incident response.  
+- **Leadership** → CTO decision-making, enterprise alignment, stakeholder communication.  
+- **Emerging Tech Enthusiast** → Exploring blockchain & Web3 for healthcare innovation.  
 
 ---
 
 ## 🛠️ Skills & Tools  
-
-### 🖥️ Software Engineering  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-
-### ☁️ Cloud, DevOps & Infra  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-
-### 🔐 Cybersecurity & GRC  
-![NIST](https://img.shields.io/badge/NIST-000000?style=flat&logoColor=white)  
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-0033A0?style=flat&logo=iso&logoColor=white)  
-![ITIL](https://img.shields.io/badge/ITIL-5C2D91?style=flat&logo=itsm&logoColor=white)  
-![COBIT](https://img.shields.io/badge/COBIT-2F4F4F?style=flat&logoColor=white)  
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-000000?style=flat&logo=bitwarden&logoColor=white)  
-![1Password](https://img.shields.io/badge/1Password-0094F5?style=flat&logo=1password&logoColor=white)  
-
-### 📊 Analytics & Productivity  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)  
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft-office&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,flutter,ts,js,python,php,laravel,html,css,materialui,gatsby,supabase,postgres,mysql,firebase,c,aws,docker,kubernetes,git,github,figma,vscode,linux,azure,vercel" />
+</div>
 
 ---
 
@@ -88,7 +53,7 @@ As the **Founder & CTO of Cura ID**, I design and lead **global-scale health ide
 
 ### 🏆 GitHub Achievements  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tecnophille&theme=algolia&no-frame=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tecnophille&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=1" />
 </div>
 
 ### 🐍 Contribution Graph  
