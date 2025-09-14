@@ -58,8 +58,9 @@ I combine **hands-on engineering expertise** with **C-level leadership**, bridgi
 
 ### 🐍 Contribution Graph  
 <div align="center">
-  <img src="https://github.com/tecnophille/tecnophille/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tecnophille/tecnophille/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 ---
 
