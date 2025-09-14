@@ -1,64 +1,84 @@
-# 👋 Hi, I'm Samuel Oliver  
-
-🚀 **CTO | GRC Strategist | Cybersecurity & DevOps Leader | HealthTech Innovator**  
-I design secure, scalable, and compliant digital systems that bridge innovation and governance. Currently leading **Cura ID**, a Global Health Identity Platform restoring trust and equity in digital health records.  
-
----
-
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tecnophille&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnophille&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tecnophille&theme=radical)  
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Samuel%20Oliver&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <h3 style="margin-top:-20px;">CTO • Full-Stack Engineer • DevOps & GRC Specialist • Founder of Cura ID</h3>
+</div>
 
 ---
 
-## 🧩 Skills & Expertise  
+### 👋 Welcome  
+I’m **Samuel Oliver**, a technology leader with 8+ years of experience spanning **software engineering, DevOps, governance & compliance, and IT leadership**.  
+Currently, I’m leading the development of **Cura ID**, a **Global Health Identity Platform**, focused on restoring trust, equity, and security in digital healthcare.  
 
-### 👨‍💻 Leadership & Strategy  
-- CTO & CIO Functions  
-- Governance, Risk & Compliance (GRC) → **NIST, ISO 27001, COBIT**  
-- IT Governance & Risk Alignment  
-- Digital Health Platforms  
-
-### 🔐 Cybersecurity & Compliance  
-- Zero-Trust Architecture  
-- Identity & Access Management (IAM)  
-- Data Governance, Auditing & RLS (Supabase)  
-- Secure Secrets Management (1Password, Vaultwarden)  
-
-### ⚙️ DevOps & Cloud  
-- Supabase (Auth, RLS, Migrations, Edge Functions)  
-- GitHub Actions, CI/CD Pipelines  
-- Vercel, Render, AWS Cloud Infrastructure  
-- Multi-Environment Strategy (Dev → Staging → Production)  
-
-### 🛠️ Software Engineering & Tools  
-- **MEAN Stack** (MongoDB, Express.js, Angular, Node.js)  
-- Next.js, NestJS, Expo (React Native)  
-- Appsmith (Role-based Dashboards)  
-- Cloudinary (Media Management)  
-
-### 📊 Analytics & Insights  
-- **Power BI** (Digital Alignment, KPI Tracking)  
-- Google Analytics (Platform Insights)  
-- Microsoft 365 Insights  
+I combine **deep engineering skills** with **strategic leadership**, enabling me to move seamlessly between writing production-grade code, designing infrastructure, and shaping enterprise-wide technology policies.  
 
 ---
 
-## 🏗️ Featured Projects  
-
-- 🔹 [**Cura ID**](https://letscura.com) → *Global Health Identity Platform (MVP)*  
-- 🔹 **AI-WK Platform** → *Secure deployment, credit system, advanced logging*  
-- 🔹 **APM Terminals Alignment Policy** → *MS Teams, Power BI dashboards, GRC workflows*  
-
----
-
-## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tecnophille)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/tecnophille)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/tecnophille)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@letscura.com)  
+### 🚀 Core Focus Areas
+- **Full-Stack Engineering**: React, Next.js, NestJS, Flutter, Supabase, PostgreSQL.  
+- **DevOps & Cloud**: CI/CD pipelines, GitHub Actions, Docker, Kubernetes, AWS, Vercel.  
+- **Governance, Risk & Compliance (GRC)**: IT strategy, access control, risk assessment, secrets management, and regulatory alignment.  
+- **Cybersecurity**: Secure development, RLS policies, identity management, and incident response.  
+- **Leadership**: CTO-level decision-making, stakeholder alignment, cross-functional team management.  
+- **Enthusiast in Emerging Tech**: Exploring blockchain for digital identity and Web3’s potential in healthcare.  
 
 ---
 
-⭐️ From [tecnophille](https://github.com/tecnophille)  
+### 🛠️ Skills & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,flutter,ts,js,python,php,laravel,html,css,materialui,gatsby,supabase,postgres,mysql,firebase,c,aws,docker,kubernetes,git,github,figma,vscode,linux" />
+</div>
+
+---
+
+### 📊 Advanced Analytics  
+
+#### Contribution Overview  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tecnophille&theme=github_dark" width="100%"/>
+</div>
+
+#### Activity Breakdown  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tecnophille&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tecnophille&theme=github_dark" width="45%"/>
+</div>
+
+#### Streaks & Stats  
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Tecnophille&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tecnophille&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+### 🌍 Beyond Code
+- 🎤 **Speaker & Educator** – Simplifying cybersecurity, GRC, and digital identity for global audiences.  
+- ✍️ **Writer** – Documenting the intersection of tech, governance, and society.  
+- 🎯 **Strategist** – Designing communication alignment frameworks and scalable enterprise solutions.  
+
+---
+
+### 🤝 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/tecnophille"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/tecnophille"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://youtube.com/channel/UCzG6wWVHCiReHlOAjO_nXYw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/tecnophille"><img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+---
+
+### ☕ Support My Work
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tecnophille" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
+  </a>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</div>
