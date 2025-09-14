@@ -56,10 +56,25 @@ I combine **hands-on engineering expertise** with **C-level leadership**, bridgi
   <img src="https://github-profile-trophy.vercel.app/?username=Tecnophille&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=1" />
 </div>
 
+### 📊 Advanced Analytics  
+
+<div align="center">
+
+| 💻 Profile Details | 📈 Streaks | 🚀 Stats |
+|--------------------|-----------|----------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tecnophille&theme=github_dark" width="100%"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Tecnophille&theme=tokyonight&hide_border=true" height="160"/> | <img src="https://github-readme-stats.vercel.app/api?username=Tecnophille&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> |
+
+| 🛠 Most Used Languages | 📂 Repos by Language | 🏆 GitHub Trophies |
+|------------------------|----------------------|-------------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tecnophille&layout=compact&theme=tokyonight&hide_border=true" height="160"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tecnophille&theme=github_dark" height="160"/> | <img src="https://github-profile-trophy.vercel.app/?username=Tecnophille&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=1" /> |
+
+</div>
+
 ### 🐍 Contribution Graph  
 <div align="center">
   <img src="https://raw.githubusercontent.com/tecnophille/tecnophille/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 
 ---
