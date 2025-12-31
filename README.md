@@ -16,7 +16,7 @@ I combine **hands-on engineering expertise** with **C-level leadership**, bridgi
 ---
 
 ## 🚀 Core Focus Areas  
-- **Full-Stack Engineering** → React, Next.js, NestJS, Flutter, Supabase, PostgreSQL.  
+- **Full-Stack Engineering** → React, Next.js, NestJS, Flutter, Supabase, PostgreSQL, PHP, Laravel, Nest.JS, ReactNative, Ionic.  
 - **DevOps & Cloud** → CI/CD pipelines, GitHub Actions, Docker, Kubernetes, AWS, Vercel.  
 - **Governance, Risk & Compliance (GRC)** → NIST, ISO 27001, COBIT, secrets management, IT governance.  
 - **Cybersecurity** → Zero-trust, RLS policies, IAM, incident response.  
